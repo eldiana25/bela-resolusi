@@ -1,0 +1,147 @@
+Python Roadmap to follow in 2021
+
+Stage 1: Warm Up!
+- Bash/Linux Commands
+- Git Basics
+- GitHub Fundamentals
+- What is Python? Why Python?
+- Features of Python
+- Applications of Python
+- Python2 vs Python3
+- Python Code Editors
+- Python Interpreter
+- Setting up a development environment for Python
+
+Stage 2: Python Basics
+- Basic Python Syntax
+- Indentation Rules & Comments
+- ‘Hello World’ in Python
+- Variables and Datatypes
+- Type Conversion
+- Python Operators
+- Python Conditional Statements
+- Loops in Python
+- Python Strings and Numbers
+Tutorials
+- https://www.w3schools.com/python/python_intro.asp
+- https://www.programiz.com/python-programming
+- https://www.python.org/about/gettingstarted/
+- https://www.coursera.org/learn/python-basics
+- https://youtu.be/rfscVS0vtbw
+- https://youtu.be/woVJ4N5nl_s
+
+Stage 3: Data Structures in Python
+- Python Lists
+- Python Tuples
+- Slicing in Python
+- Python Sets
+- Python Dictionaries
+- Booleans in Python
+Tutorials
+- https://www.analyticsvidhya.com/blog/2020/06/data-structures-python/
+- https://www.coursera.org/learn/python-data
+- https://youtu.be/xOuRE3IuEB8
+
+Stage 4: Object-Oriented vs Functional Programming
+- OOP Concepts
+- Classes in Python
+- Dunder
+- Methods
+- Generators
+- Inheritance
+- Functional Programming
+- Lambda Functions
+- Built-in Functions
+- Decorators in Python
+- Closures
+- Regular Expressions in Python
+Tutorials
+- https://www.geeksforgeeks.org/functional-programming-in-python/
+- https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/
+- https://youtu.be/xJCPpDlk9_w?list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr
+
+Stage 5: Modules and Packages
+- Modules vs Packages
+- Numeric Modules
+- Counter, sys modules
+- DefaultDict and orderedDict modules
+- Random Module
+- Datetime and calendar modules
+- Pip and PyPI packages
+Tutorials
+- https://realpython.com/python-modules-packages/
+- https://pypi.org/
+- https://www.geeksforgeeks.org/what-is-the-difference-between-pythons-module-package-and-library/
+- https://youtu.be/Uei2ILcxuPs
+
+Stage 6: File and Exception Handling 
+- Read/Write Files in Python
+- OS module
+- Rename/Copy/managing files in Python
+- Zipping files and directories
+Tutorials
+- https://www.geeksforgeeks.org/file-handling-python/
+- https://www.tutorialspoint.com/python/python_exceptions.htm
+- https://youtu.be/aequTxAvQq4
+- https://www.programiz.com/python-programming/exception-handling
+
+Stage 7: Important Libraries 
+- pandas
+- NumPy
+- SciPy
+- tkinter
+- Pillow
+- PyQT
+- pygame
+- PyTorch
+- matplotlib
+- TensorFlow
+- Keras
+Tutorials
+- https://youtu.be/dVr7r7QgLrk
+
+Application Areas Python has always been a trendy choice for programming when it comes to either Web Development, Machine Learning, or Scripting. We have listed a few application areas that you can explore with Python and its amazing libraries and frameworks. Each application area has its own set of extra learnings and it’s up to your interest to choose from!
+
+Path 1: Web Scraping
+- Beautiful soup
+- Selenium
+- Scrapy
+Tutorials 
+- https://youtu.be/XVv6mJpFOb0
+- https://youtu.be/4UcqECQe5Kc
+
+Path 2: Scripting
+- DevOps: Docker, Kubernetes, etc.
+- System Admin
+Tutorials
+- https://youtu.be/9F6zAuYtuFw
+
+Path 3: Web Development 
+- Django
+- Flask
+Tutorials
+- https://youtu.be/yD0_1DPmfKM?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3
+- https://youtu.be/lj4I_CvBnt0
+
+Path 4: Ethical Hacking 
+- https://youtu.be/qattlDUVNj8
+ 
+Path 5: Machine Learning
+- TensorFlow
+- PyTorch
+- Keras
+- Scikit-learn
+- Numpy
+- Pandas
+- SciPy
+- Matplotlib
+- Seaborn
+Tutorials
+- https://www.freecodecamp.org/news/python-data-science-course-matplotlib-pandas-numpy/
+- https://www.coursera.org/learn/machine-learning-with-python
+- https://www.freecodecamp.org/news/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da/
+- https://youtu.be/7eh4d6sabA0
+
+Thanks
+This Roadmap Written by Chandrika Deb
+Source : https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
