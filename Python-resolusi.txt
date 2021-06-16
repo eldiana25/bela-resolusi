@@ -142,6 +142,8 @@ Tutorials
 - https://www.freecodecamp.org/news/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da/
 - https://youtu.be/7eh4d6sabA0
 
+BISMILLAH SEMOGA KOMITMEN
+
 Thanks
 This Roadmap Written by Chandrika Deb
 Source : https://medium.com/analytics-vidhya/python-roadmap-to-follow-in-2021-1f49715468ca
